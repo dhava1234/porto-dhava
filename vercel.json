@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "framework": "vercel-php",
+  "framework": null,
   "buildCommand": "composer install && npm install && npm run build",
   "outputDirectory": "public",
   "functions": {
@@ -15,4 +15,5 @@
     }
   ]
 }
+
 
